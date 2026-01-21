@@ -2,6 +2,8 @@ Scouting & Analytics Manager for EA FC25
 
 Save player stats from season .lua Script - Arankatxu
 
+" Editar el .lua para intentar recoger las estadisticas de todos los jugadores de las diferentes ligas "
+
 ```lua
 -- This script will export current season stats (goals scored, assists etc.) to CSV.
 -- The SEASON_STATS.csv file will be created on Desktop.
