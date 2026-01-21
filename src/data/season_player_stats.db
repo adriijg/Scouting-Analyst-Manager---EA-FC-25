@@ -1,0 +1,3 @@
+CREATE TABLE season_player_stats {
+    id INTEGER,
+}
